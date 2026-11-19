@@ -1,37 +1,61 @@
-# ✦ Mobina Rezaei
+ <div align="center">
 
-### Computer Engineering Student · AI Enthusiast · Creative Thinker
+# ✦ MOBINA REZAEI
 
-## ◈ About Me
+### `Computer Engineering Student` · `AI Enthusiast` · `Creative Thinker`
 
-I'm a Computer Engineering student passionate about exploring the intersection of technology, intelligence, and creativity.
+*Exploring technology at the intersection of intelligence and creativity.*
+
+---
+
+</div>
+
+## ◈ 01 — ABOUT ME
+
+I'm a Computer Engineering student passionate about exploring the intersection of **technology, intelligence, and creativity**.
 
 I enjoy learning how intelligent systems work, analyzing data, and transforming ideas into practical digital experiences.
 
-My interests include:
+<div align="center">
 
-- 🤖 Artificial Intelligence & Machine Learning
-- 🧬 Bioinformatics & Computational Biology
-- 📊 Data Analysis & Data Visualization
-- 🎨 UI/UX Design & Digital Experiences
-- 💻 Software Development & Problem Solving
+`Curiosity` ✦ `Technology` ✦ `Creativity` ✦ `Innovation`
 
-I believe technology becomes more meaningful when analytical thinking meets creative design.
+</div>
 
-## ◈ What I'm Exploring
+## ◈ 02 — AREAS OF INTEREST
 
-| Area | Current Interests |
-|---|---|
-| Artificial Intelligence | Intelligent systems, ML concepts |
-| Machine Learning | Predictive models, classification |
-| Bioinformatics | AI applications in biological data |
-| Data Analysis | Data exploration and visualization |
-| UI/UX Design | User-centered and intuitive interfaces |
+| Field | My Interests |
+|:---|:---|
+| 🤖 **Artificial Intelligence** | Machine Learning & Intelligent Systems |
+| 🧬 **Bioinformatics** | Computational Biology |
+| 📊 **Data Analysis** | Data Exploration & Visualization |
+| 🎨 **UI/UX Design** | User-Centered Digital Experiences |
+| 💻 **Software Development** | Problem Solving & Building Ideas |
+
+## ◈ 03 — CURRENTLY EXPLORING
+
+<div align="center">
+
+| `FIELD` | `FOCUS` |
+|:---:|:---|
+| AI | Intelligent Systems |
+| ML | Predictive Models & Classification |
+| Bioinformatics | AI in Biological Data |
+| Data | Analysis & Visualization |
+| UI/UX | Intuitive Interface Design |
+
+</div>
 
 ---
 
 <div align="center">
 
-*Learning with curiosity. Building with purpose. Designing with creativity.*
+### ✧ MY PERSONAL PHILOSOPHY ✧
+
+**Learning with curiosity.**  
+**Building with purpose.**  
+**Designing with creativity.**
+
+<sub>Always exploring. Always creating. Always learning.</sub>
 
 </div>
