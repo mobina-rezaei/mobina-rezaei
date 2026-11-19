@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,50:F4EDFF,100:CDB5FF&height=190&section=header&text=MOBINA%20REZAEI&fontSize=46&fontColor=7652B5&fontAlignY=38&desc=COMPUTER%20ENGINEERING%20%7C%20AI%20%7C%20CREATIVITY&descAlignY=60&descSize=14&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:102F26,100:245B45&height=190&section=header&text=MOBINA%20REZAEI&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=COMPUTER%20ENGINEERING%20%7C%20AI%20%7C%20CREATIVITY&descAlignY=60&descSize=14&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=9875D5&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student;Exploring+Artificial+Intelligence;Interested+in+Machine+Learning;Bioinformatics+%26+Data+Analysis;Designing+Ideas+Into+Experiences" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=347A62&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student;Exploring+Artificial+Intelligence;Interested+in+Machine+Learning;Bioinformatics+%26+Data+Analysis;Designing+Ideas+Into+Experiences" />
 
 <br/>
 
@@ -18,7 +18,7 @@
 
 <h2>M / R</h2>
 
-<img src="https://img.shields.io/badge/PROFILE-EXPLORER-B99AFF?style=for-the-badge&labelColor=F4EDFF" />
+<img src="https://img.shields.io/badge/PROFILE-EXPLORER-245B45?style=for-the-badge&labelColor=E8F2EC" />
 
 <br/><br/>
 
@@ -31,13 +31,13 @@ AI Enthusiast · Creative Thinker
 <br/><br/>
 
 <a href="https://github.com/mobina-rezaei">
-<img src="https://img.shields.io/badge/GitHub-7652B5?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Explore-245B45?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/mobina-r-336079447/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-9875D5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-347A62?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </td>
@@ -54,12 +54,12 @@ I enjoy learning how intelligent systems work, analyzing data, and transforming 
 
 <h2>◈ Skills & Interests</h2>
 
-<img src="https://img.shields.io/badge/Artificial_Intelligence-8B6BCB?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Machine_Learning-A78BFA?style=flat-square&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/Bioinformatics-C4A7E7?style=flat-square" />
-<img src="https://img.shields.io/badge/Data_Analysis-9673C8?style=flat-square" />
-<img src="https://img.shields.io/badge/UI%2FUX_Design-B99AFF?style=flat-square&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Software_Development-7652B5?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Artificial_Intelligence-245B45?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Machine_Learning-347A62?style=flat-square&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Bioinformatics-5B927B?style=flat-square" />
+<img src="https://img.shields.io/badge/Data_Analysis-43866A?style=flat-square" />
+<img src="https://img.shields.io/badge/UI%2FUX_Design-6A9D83?style=flat-square&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Software_Development-245B45?style=flat-square&logo=github&logoColor=white" />
 
 </td>
 </tr>
@@ -120,10 +120,10 @@ User-centered interfaces and digital experiences
 <div align="center">
 
 <a href="https://github.com/mobina-rezaei/Diabetes-Prediction-Platform">
-<img src="https://img.shields.io/badge/Diabetes_Prediction_Platform-Explore_Project-9875D5?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Diabetes_Prediction_Platform-Explore_Project-245B45?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<br/>
+<br/><br/>
 
 An educational web-based prototype for exploring diabetes-related risk factors.
 
@@ -131,11 +131,25 @@ An educational web-based prototype for exploring diabetes-related risk factors.
 
 <br/>
 
+<h2 align="center">✧ LET'S CONNECT ✧</h2>
+
 <div align="center">
 
-<h3>✧ MY PERSONAL PHILOSOPHY ✧</h3>
+<a href="mailto:mobina2004r@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-245B45?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=19&duration=3200&pause=1200&color=9875D5&center=true&vCenter=true&width=520&lines=Learning+with+curiosity.;Building+with+purpose.;Designing+with+creativity." />
+<a href="https://t.me/mnr_mnl">
+<img src="https://img.shields.io/badge/Telegram-Message_Me-347A62?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/mobina-r-336079447/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-43866A?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=19&duration=3200&pause=1200&color=347A62&center=true&vCenter=true&width=520&lines=Learning+with+curiosity.;Building+with+purpose.;Designing+with+creativity." />
 
 <br/><br/>
 
@@ -143,4 +157,4 @@ An educational web-based prototype for exploring diabetes-related risk factors.
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:CDB5FF,50:F4EDFF,100:FFFFFF&height=110&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:245B45,100:102F26&height=120&section=footer" />
