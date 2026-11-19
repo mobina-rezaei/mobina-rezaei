@@ -16,9 +16,9 @@
 <tr>
 <td width="34%" align="center" valign="top">
 
-<h2> M / R </h2>
+<h2>M / R</h2>
 
-<img src="https://img.shields.io/badge/PROFILE-EXPLORER-B99AFF?style=for-the-badge&labelColor=F4EDFF&color=9875D5" />
+<img src="https://img.shields.io/badge/PROFILE-EXPLORER-B99AFF?style=for-the-badge&labelColor=F4EDFF" />
 
 <br/><br/>
 
@@ -28,14 +28,16 @@ Computer Engineering Student
 
 AI Enthusiast · Creative Thinker
 
-<br/>
-
-<img src="https://img.shields.io/badge/Curious_by_nature-EEE5FF?style=flat-square&labelColor=EEE5FF&color=9875D5" />
-
 <br/><br/>
 
 <a href="https://github.com/mobina-rezaei">
 <img src="https://img.shields.io/badge/GitHub-7652B5?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/mobina-r-336079447/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-9875D5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </td>
