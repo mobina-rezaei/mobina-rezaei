@@ -1,63 +1,102 @@
- <div align="center">
+&#x20;\<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=90&section=header" width="100%" />
+\<img width="100%" src="[https://capsule-render.vercel.app/api?type=waving&color=0\:FFFFFF,45\:EDE5FF,100\:B99AFF&height=180&section=header&text=MOBINA%20REZAEI&fontSize=42&fontColor=6545A5&fontAlignY=42&animation=fadeIn&desc=COMPUTER%20ENGINEERING%20%7C%20AI%20%7C%20CREATIVITY&descAlignY=63&descSize=14](https://capsule-render.vercel.app/api?type=waving\&color=0\:FFFFFF,45\:EDE5FF,100\:B99AFF\&height=180\&section=header\&text=MOBINA%20REZAEI\&fontSize=42\&fontColor=6545A5\&fontAlignY=42\&animation=fadeIn\&desc=COMPUTER%20ENGINEERING%20%7C%20AI%20%7C%20CREATIVITY\&descAlignY=63\&descSize=14)" />
 
-# MOBINA REZAEI
+\<img src="[https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=9875D5&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Exploring+Artificial+Intelligence;Interested+in+Machine+Learning;Designing+Ideas+Into+Experiences](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=500\&size=17\&duration=3000\&pause=1000\&color=9875D5\&center=true\&vCenter=true\&width=600\&lines=Computer+Engineering+Student;Exploring+Artificial+Intelligence;Interested+in+Machine+Learning;Designing+Ideas+Into+Experiences)" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&pause=1000&color=64748B&center=true&vCenter=true&width=550&lines=Computer+Engineering+Student;Exploring+Artificial+Intelligence;Interested+in+Machine+Learning;Turning+Ideas+Into+Digital+Experiences" alt="Typing SVG" />
+\<br/>
 
-<br/>
+`✦ TECHNOLOGY`   `✦ INTELLIGENCE`   `✦ CREATIVITY`
 
-`TECHNOLOGY` &nbsp; · &nbsp; `INTELLIGENCE` &nbsp; · &nbsp; `CREATIVITY`
-
-<br/>
-
-[LinkedIn](https://www.linkedin.com/) &nbsp; · &nbsp; [GitHub](https://github.com/mobina-rezaei)
-
-</div>
+\</div>
 
 ---
 
-### 01 / ABOUT ME
+\<table> \<tr> \<td width="38%" align="center">
 
-I'm a Computer Engineering student passionate about exploring the intersection of technology, intelligence, and creativity.
+### M / R
 
-I enjoy learning how intelligent systems work, analyzing data, and transforming ideas into practical digital experiences.
+\<img src="[https://img.shields.io/badge/PROFILE-EXPLORER-B99AFF?style=for-the-badge&labelColor=F5F0FF](https://img.shields.io/badge/PROFILE-EXPLORER-B99AFF?style=for-the-badge\&labelColor=F5F0FF)" />
 
-### 02 / AREAS OF INTEREST
+\<br/>\<br/>
 
-<div align="center">
+**Curious by nature.**
+**Creative by choice.**
 
-| FIELD | INTEREST |
-|:---:|:---|
-| 🤖 | Artificial Intelligence & Machine Learning |
-| 🧬 | Bioinformatics & Computational Biology |
-| 📊 | Data Analysis & Data Visualization |
-| 🎨 | UI/UX Design & Digital Experiences |
-| 💻 | Software Development & Problem Solving |
+\</td> \<td width="62%">
 
-</div>
+### `$ whoami`
 
-### 03 / CURRENTLY EXPLORING
+Hi! I'm **Mobina Rezaei**, a Computer Engineering student interested in the intersection of intelligent technology, data, and creative design.
 
-- Intelligent systems and machine learning concepts
-- Predictive models and classification
-- AI applications in biological data
-- Data exploration and visualization
-- User-centered interface design
+I enjoy exploring new concepts, learning how intelligent systems work, and turning ideas into meaningful digital experiences.
 
----
+\</td> \</tr> \</table>
 
-<div align="center">
+## ✧ 01 — INTERESTS
 
-### A LITTLE ABOUT MY MINDSET
+\<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=400&size=19&pause=1500&color=64748B&center=true&vCenter=true&width=500&lines=Learning+with+curiosity.;Building+with+purpose.;Designing+with+creativity." alt="Personal philosophy" />
+\<img src="[https://img.shields.io/badge/Artificial_Intelligence-8B6BCB?style=flat-square&logo=openai&logoColor=white](https://img.shields.io/badge/Artificial_Intelligence-8B6BCB?style=flat-square\&logo=openai\&logoColor=white)" /> \<img src="[https://img.shields.io/badge/Machine_Learning-A78BFA?style=flat-square&logo=scikitlearn&logoColor=white](https://img.shields.io/badge/Machine_Learning-A78BFA?style=flat-square\&logo=scikitlearn\&logoColor=white)" /> \<img src="[https://img.shields.io/badge/Bioinformatics-C4A7E7?style=flat-square](https://img.shields.io/badge/Bioinformatics-C4A7E7?style=flat-square)" /> \<img src="[https://img.shields.io/badge/Data_Analysis-9673C8?style=flat-square](https://img.shields.io/badge/Data_Analysis-9673C8?style=flat-square)" /> \<img src="[https://img.shields.io/badge/UI%2FUX_Design-B99AFF?style=flat-square&logo=figma&logoColor=white](https://img.shields.io/badge/UI%2FUX_Design-B99AFF?style=flat-square\&logo=figma\&logoColor=white)" />
 
-<br/>
+\</div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=55&section=footer" width="100%" />
+## ✧ 02 — EXPLORING
 
-<sub>Always exploring. Always creating. Always learning.</sub>
+\<table>
+\<tr>
+\<td width="50%">
 
-</div>
+**01 / Artificial Intelligence**
+
+Intelligent systems and AI applications
+
+\</td>
+\<td width="50%">
+
+**02 / Machine Learning**
+
+Predictive models and classification
+
+\</td>
+\</tr>
+\<tr>
+\<td>
+
+**03 / Bioinformatics**
+
+Computational biology and biological data
+
+\</td>
+\<td>
+
+**04 / Data Analysis**
+
+Data exploration and visualization
+
+\</td>
+\</tr>
+\<tr>
+\<td colspan="2" align="center">
+
+**05 / UI/UX Design**
+
+User-centered interfaces and digital experiences
+
+\</td>
+\</tr>
+\</table>
+
+## ✧ 03 — CONNECT
+
+\<div align="center">
+
+\<a href="[https://github.com/mobina-rezaei](https://github.com/mobina-rezaei)"> \<img src="[https://img.shields.io/badge/GitHub-Explore_My_Projects-8064B5?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-Explore_My_Projects-8064B5?style=for-the-badge\&logo=github\&logoColor=white)" /> \</a>
+
+\<br/>\<br/>
+
+\<img src="[https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=3500&pause=1200&color=9875D5&center=true&vCenter=true&width=500&lines=Learning+with+curiosity.;Building+with+purpose.;Designing+with+creativity](https://readme-typing-svg.demolab.com?font=Georgia\&size=18\&duration=3500\&pause=1200\&color=9875D5\&center=true\&vCenter=true\&width=500\&lines=Learning+with+curiosity.;Building+with+purpose.;Designing+with+creativity)." />
+
+\<img width="100%" src="[https://capsule-render.vercel.app/api?type=waving&color=0\:EDE5FF,100\:FFFFFF&height=100&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=0\:EDE5FF,100\:FFFFFF\&height=100\&section=footer)" />
+
+\</div>
